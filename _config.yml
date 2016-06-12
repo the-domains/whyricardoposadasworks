@@ -1,0 +1,28 @@
+name: whyricardoposadasworks
+favicon: null
+layout_spectrum: 0.06093244184739888
+typography_spectrum: 0.7350885395426303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.45333907078020275
+  lightness: 0.8976012973580509
+  saturation: 0.8214711691252887
+  rhythmicContrast: 0.11500722821801901
+purpose: []
