@@ -6,25 +6,25 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
-  One of the last things I would like to share with you today, we're delivering
+  One of the last things I would like to share with you; today we're delivering
   a FREE live 8 hour webcast training from our Denver studios with the specific
   goal of helping you create transformational income and wealth doing what you
   love to do, and you can attend here:
-datePublished: '2016-06-18T11:51:31.765Z'
-dateModified: '2016-06-18T11:51:30.161Z'
+datePublished: '2016-06-18T13:04:40.804Z'
+dateModified: '2016-06-18T13:02:01.719Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-this-saturday-tomorrow-were-delivering-a-free-live-8-hour.md
 authors: []
 publisher: null
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4d1bfd1-e7e6-4f72-904f-ad4b539b5829.png)
 
-One of the last things I would like to share with you today, we're delivering a FREE live 8 hour webcast training from our Denver studios with the specific goal of helping you create transformational income and wealth doing what you love to do, and you can attend here:
+One of the last things I would like to share with you; today we're delivering a FREE live 8 hour webcast training from our Denver studios with the specific goal of helping you create transformational income and wealth doing what you love to do, and you can attend here:
 
 http://www.maxperformancemastercourse.com/?id=beauty-and-the-beast
 
@@ -68,4 +68,3 @@ http://www.maxperformancemastercourse.com/?id=beauty-and-the-beast
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93c03d79-2905-405e-b3ce-ea5310001be6.png)
 
 t
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93c03d79-2905-405e-b3ce-ea5310001be6.png)
